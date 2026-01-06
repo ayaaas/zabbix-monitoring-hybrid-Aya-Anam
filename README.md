@@ -69,9 +69,9 @@ Ce projet a été réalisé dans le contexte du AWS Learner Lab avec des ressour
 
 | Composant | Type Instance | OS | RAM | CPU | Rôle |
 |-----------|---------------|----|----|-----|------|
-| Zabbix Server | t3.large | Ubuntu 22.04 | 8GB | 2vCPU | Serveur central + DB |
+| Zabbix Server | t3.medium | Ubuntu 22.04 | 8GB | 2vCPU | Serveur central + DB |
 | Linux Client | t3.medium | Ubuntu 22.04 | 4GB | 2vCPU | Agent de monitoring |
-| Windows Client | t3.large | Windows Server | 4GB | 2vCPU | Agent de monitoring |
+| Windows Client | t3.medium | Windows Server | 4GB | 2vCPU | Agent de monitoring |
 
 ---
 
